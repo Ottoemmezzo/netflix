@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "email": "dadegi@gmail.com",
+      "password": "$2a$10$S0cNM07ApdFy0SW3S81b0ubMIC2x0WCkoIvuwSb0/ofTQDfYHhrWu",
+      "name": "Dario",
+      "surname": "Del Giudice",
+      "id": 1
+    }
+  ],
+  "sports": [
+    {
+      "nome": "calcio",
+      "id": 1
+    },
+    {
+      "nome": "tennis",
+      "id": 2
+    }
+  ]
+}
